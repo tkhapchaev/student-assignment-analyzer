@@ -26,7 +26,7 @@ Root directory/
 	- ...
 ```
 
-### Progress tracker
+### ProgressTracker
 
 За отслеживание прогресса отвечает сущность `ProgressTracker`. Для изменения шага отслеживания обновите константу `step` в классе `Executor`. По умолчанию шаг равен 5.
 ```
@@ -96,4 +96,4 @@ Root directory/
 4. Добавьте соответствующее условие в метод `GetComparisonAlgorithms` класса `ConfigurationParser`.
 
 ____
-Проект был создан в рамках академии [Kysect](https://github.com/kysect)
+Проект создан в рамках академии [Kysect](https://github.com/kysect)
